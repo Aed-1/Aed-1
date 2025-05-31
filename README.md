@@ -1,4 +1,5 @@
-## Hi there 👋, im Aed, a python programmer who likes to work on things from time to time.
+## Hi there 👋
+Im Aed, a python programmer who likes to work on things from time to time.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aed-1&theme=radical)
 
