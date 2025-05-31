@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, im Aed, a python programmer who likes to work on things from time to time.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aed-1&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aed-1&theme=radical)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aed-1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
