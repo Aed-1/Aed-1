@@ -1,5 +1,5 @@
 ## Hi there 👋
-Im Aed, a python programmer who likes to work on things from time to time, here are some stats that show what i have done on github (dont make fun of me for there not being much, im not very active)
+Im Aed, a python programmer who likes to work on things from time to time, here are some stats that show what i have done on github
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aed-1&theme=radical)
 
