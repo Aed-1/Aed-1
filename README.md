@@ -1,7 +1,7 @@
 ## Hi there 👋
 Im Aed, a python programmer who likes to work on things from time to time
 
-Recently i have been dipping into other languages like javascript and typescript, in the future i also hope to try learn languages like kotlin, java and C
+Recently i have been dipping into other languages like javascript and typescript, in the future i also hope to try learn more languages like C
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aed-1&theme=radical)
 
