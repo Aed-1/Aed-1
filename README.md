@@ -1,7 +1,7 @@
 ## Hi there 👋
-Im Aed, a python programmer who likes to work on things from time to time
+Im Aed, a programmer who likes to work on things from time to time
 
-Recently i have been dipping into other languages like javascript and typescript, in the future i also hope to try learn more languages like C
+I am most fluent in python, but i also know a fair amount of typescript/javascript. learning kotlin atm
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aed-1&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
